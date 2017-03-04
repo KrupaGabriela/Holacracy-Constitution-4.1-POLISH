@@ -164,23 +164,23 @@ When you fill a Role, you may resign from the Role at any time, unless you’ve 
 
 Each Circle includes a **_“Facilitator Role”_**, a **_“Secretary Role”_**, and a **_“Rep Link Role”_** with the definitions given in Appendix A. These are the Circle’s **_“Elected Roles”_**, and the person filling each becomes the Circle’s **_“Facilitator”_**, **_“Secretary”_**, or **_“Rep Link”_** when acting in the capacity of the Elected Role.
 
-#### 2.5.1 Elections & Eligibility
+#### 2.5.1 Wybory i kwalifikacja do nich
 
-The Facilitator of each Circle will facilitate regular elections to elect a Core Circle Member of the Circle into each of its Elected Roles, using the process and rules defined in Article III.
+Moderator każdego Kręgu regularnie organizuje wybory w celu wyboru Członka Kręgu na każdą z Wybieralnych Ról, korzystając z procesów oraz zasad określonych w Artykule III. 
 
-All Core Circle Members are eligible for election and each may hold multiple Elected Roles, except for the Lead Link of a Circle, who may not be elected as its Facilitator or Rep Link.
+Wszyscy Członkowie kwalifikują się do wyboru, przy czym każdy z nich może pełnić wiele Wybieralnych Ról, z wyjątkiem Opiekuna, który nie może być wybrany na Moderatora ani na Reprezentanta.
 
-#### 2.5.2 Election Terms & Revisiting
+#### 2.5.2 Kadencja oraz reelekcja
 
-During the election process, the Facilitator will specify a term for each election. After a term expires, the Secretary is responsible for promptly triggering a new election for that Elected Role. However, even before a term has expired, any Core Circle Member may trigger a new election using the process defined in Article III.
+W procesie wyboru Moderator określa kadencję pełnienia danej Wybieralnej Roli. Po upływie kadencji Sekretarz jest odpowiedzialny za natychmiastowe wszczęcie procedury nowego wyboru dla tej Roli. Jednakże nawet przed upływem kadencji, każdy Członek Kręgu może wszcząć procedurę wyboru stosując proces zdefiniowany w Artykule III.
 
-#### 2.5.3 Amending Elected Roles
+#### 2.5.3 Zmiana wybieralnych Ról
 
-A Circle may add Accountabilities or Domains to its Elected Roles, as well as amend or remove those additions.
+Krąg może dodawać Odpowiedzialności lub Domeny do swoich Wybieralnych Ról oraz zmieniać i usuwać te dodane Odpowiedzialności lub Domeny. 
 
-However, a Circle may only add to its own Rep Link Role and not to a Rep Link Role appointed to the Circle by a Sub-Circle.
+Jednakże Krąg może jedynie dodawać tylko we własnej Roli Reprezentanta, a nie w Roli Reprezentanta wyznaczonego z Pod-Kręgu. 
 
-Further, no Circle may amend or remove any Purpose, Domain, Accountabilities, or authorities granted to an Elected Role by this Constitution, nor remove an Elected Role entirely.
+Dodatkowo, żaden Krąg nie może zmieniać ani usuwać jakiegokolwiek Przeznaczenia, Domeny, Odpowiedzialności czy kompetencji nadanych Wybieralnej Roli przez niniejszą Konstytucją, nie może również całkowicie zlikwidować żadnej z Wybieralnych Ról.
 
 #### 2.5.4 Surrogates for Elected Roles
 
